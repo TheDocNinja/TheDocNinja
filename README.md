@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Vitthal Shinde</h1>
-<h3 align="center">Technical Writer | Documentation Specialist</h3>
+<h3 align="center">Welcome to my GitHub profile!</h3>
 
 <p align="center">
 I’m a <b>Technical Writer | Information Developer </b> with 4 years of hands-on experience creating clear, user-focused documentation for enterprise software products. 
@@ -15,21 +15,18 @@ I enjoy working closely with product, engineering, and support teams to deliver 
 ### 🛠️ Documentation Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,html,css,md" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ps,ai" />
-</p>
-
-<p align="left">
-• Oxygen XML Author  
-• Adobe FrameMaker  
-• Confluence & Jira  
+• Confluence
+• Jira  
+• Visual Studio Code
+• Arbortext Epic Editor
+• ServiceNow
+• Markdown
+• MkDocs
 • Google Docs & Microsoft Word  
-• Docusaurus & MkDocs  
-• Swagger / OpenAPI  
-• Snagit & Draw.io  
+• Adobe Acrobat 
+• Snagit 
+• Miro
+• Productboard
 </p>
 
 ---
@@ -39,7 +36,6 @@ I enjoy working closely with product, engineering, and support teams to deliver 
 - End User Guides & How-To Manuals  
 - Release Notes & What's New Docs  
 - Knowledge Base Articles
-- API Documentation 
    
 ---
 
