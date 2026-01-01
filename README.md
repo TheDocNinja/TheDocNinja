@@ -16,17 +16,19 @@ I enjoy working closely with product, engineering, and support teams to deliver 
 
 <p align="left">
 • Confluence
-• Jira  
-• Visual Studio Code
-• Arbortext Epic Editor
+• Jira
 • ServiceNow
+• Visual Studio Code
+• Git & Github
+• Arbortext Epic Editor
 • Markdown
 • MkDocs
-• Google Docs & Microsoft Word  
+• MS Tools  
 • Adobe Acrobat 
 • Snagit 
 • Miro
 • Productboard
+• SAP
 </p>
 
 ---
