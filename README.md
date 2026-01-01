@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I’m Vitthal Shinde</h1>
+<h3 align="center">Technical Writer | Documentation Specialist</h3>
 
-<!--
-**TheDocNinja/TheDocNinja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+I’m a <b>Technical Writer | Information Developer </b> with 4 years of hands-on experience creating clear, user-focused documentation for enterprise software products. 
+I specialize in simplifying complex workflows, improving product usability through documentation, and building structured content such as user guides, release notes, and knowledge bases.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+I enjoy working closely with product, engineering, and support teams to deliver documentation that truly helps end users succeed.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Documentation Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,html,css,md" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ps,ai" />
+</p>
+
+<p align="left">
+• Oxygen XML Author  
+• Adobe FrameMaker  
+• Confluence & Jira  
+• Google Docs & Microsoft Word  
+• Docusaurus & MkDocs  
+• Swagger / OpenAPI  
+• Snagit & Draw.io  
+</p>
+
+---
+
+### 📚 What I Document
+
+- End User Guides & How-To Manuals  
+- Release Notes & What's New Docs  
+- Knowledge Base Articles
+- API Documentation 
+   
+---
+
+### 🚀 Portfolio Highlights
+
+- 📘 **Documentation Website** built using MkDocs & GitHub Pages  
+- 🧭 **End User Guide Samples** for enterprise-style applications  
+- 📝 **Release Notes Samples** following industry standards  
+- 🔄 Version-controlled documentation using Git   
+
+---
+### ✍️ Quote of the Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+### 🌐 Socials:
+
+[![LinkedIn](linkedin.com/in/vitthal-shinde-3bab47199)](YOUR_LINKEDIN_URL)
