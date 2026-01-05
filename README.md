@@ -56,4 +56,4 @@ I enjoy working closely with product, engineering, and support teams to deliver 
 
 ### 🌐 Socials:
 
-[LinkedIn](linkedin.com/in/vitthal-shinde-3bab47199)
+[LinkedIn](https://www.linkedin.com/in/vitthal-shinde-3bab47199)
