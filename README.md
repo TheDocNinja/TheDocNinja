@@ -29,6 +29,7 @@ I enjoy working closely with product, engineering, and support teams to deliver 
 • Miro
 • Productboard
 • SAP
+• Postman
 </p>
 
 ---
