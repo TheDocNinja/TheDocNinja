@@ -21,6 +21,7 @@ I enjoy working closely with product, engineering, and support teams to deliver 
 • Visual Studio Code
 • Git & Github
 • Arbortext Epic Editor
+• Oxygen XML Author
 • Markdown
 • MkDocs
 • MS Tools  
