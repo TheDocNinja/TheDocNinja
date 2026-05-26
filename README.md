@@ -7,7 +7,7 @@ I specialize in simplifying complex workflows, improving product usability throu
 </p>
 
 <p align="center">
-I enjoy working closely with product, engineering, and support teams to deliver documentation that truly helps end users succeed.
+I enjoy working closely with product, engineering, and support teams to deliver documentation that truly helps end users succeed
 </p>
 
 ---
